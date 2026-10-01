@@ -11,6 +11,7 @@ targets:
     sources:
       - Sources
     settings:
+    GENERATE_INFOPLIST_FILE: YES
       PRODUCT_BUNDLE_IDENTIFIER: com.yamada.launcher
       INFOPLIST_KEY_CFBundleDisplayName: Yamada
       INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.utilities
